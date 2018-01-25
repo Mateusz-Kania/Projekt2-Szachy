@@ -1,0 +1,8 @@
+﻿  projekt2.cpp
+  chess.cpp
+d:\polśl\cpp-projekty\projekt2\projekt2\ppk-projekt2\projekt2\chess.cpp(232): warning C4267: "inicjowanie": konwersja z "size_t" do "char", możliwa utrata danych
+  Generowanie kodu...
+d:\polśl\cpp-projekty\projekt2\projekt2\ppk-projekt2\projekt2\chess.cpp(1053): warning C4715: "findPawn”: niewszystkie ścieżki kodu zwracają wartość
+  Pomijanie... (nie wykryto odpowiednich zmian)
+  stack.cpp
+  projekt2.vcxproj -> D:\polśl\cpp-projekty\projekt2\projekt2\PPK-projekt2\x64\Debug\projekt2.exe
